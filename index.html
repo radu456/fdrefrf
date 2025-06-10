@@ -1,0 +1,32 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#d0021b">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+  <title>Biletul Perfect</title>
+</head>
+<body>
+  <header>
+    <h1>Biletul Perfect 🎯</h1>
+    <button id="addMatch">Adaugă Meci</button>
+    <button id="generateTicket">Generează Bilet AI</button>
+  </header>
+  <main>
+    <section id="matches"></section>
+    <section id="ticket"></section>
+    <section id="stats"></section>
+  </main>
+  <script src="app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js')
+        .then(reg => console.log('Service Worker înregistrat:', reg))
+        .catch(err => console.error('Eroare SW:', err));
+    }
+  </script>
+</body>
+</html>
