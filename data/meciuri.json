@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1, "competitie": "Liga 1, România", "echipe": "FCSB - Universitatea Craiova", "data": "2025-06-12T20:30:00",
+    "statistici": { "forma": [{"nume": "FCSB", "valoare": ["V", "V", "E", "V", "I"]}, {"nume": "U Craiova", "valoare": ["V", "E", "I", "V", "V"]}], "medieGoluriMarcate": 1.8, "medieGoluriPrimite": 1.2, "procentGG": 65, "procentPeste2_5": 55, "directe": "2V FCSB, 1E, 2V U Craiova", "note": "Derby. Jucător cheie de la Craiova este accidentat.", "trendCota": {"echipa": "FCSB", "scadere": 12}},
+    "piete": { "rezultatFinal": {"nume": "Rezultat Final", "optiuni": [{"nume": "1", "cota": 2.10}, {"nume": "X", "cota": 3.40}, {"nume": "2", "cota": 3.60}]}, "ambeleMarcheaza": {"nume": "Ambele marchează", "optiuni": [{"nume": "Da", "cota": 1.72}, {"nume": "Nu", "cota": 2.05}]}, "totalGoluri": {"nume": "Total Goluri", "optiuni": [{"nume": "Peste 2.5", "cota": 1.90}, {"nume": "Sub 2.5", "cota": 1.90}]}}
+  },
+  {
+    "id": 2, "competitie": "Premier League, Anglia", "echipe": "Manchester City - Arsenal", "data": "2025-06-14T17:00:00",
+    "statistici": { "forma": [{"nume": "Man City", "valoare": ["V", "V", "V", "V", "V"]}, {"nume": "Arsenal", "valoare": ["V", "I", "V", "V", "E"]}], "medieGoluriMarcate": 2.5, "medieGoluriPrimite": 0.8, "procentGG": 50, "procentPeste2_5": 70, "directe": "4V Man City, 1E, 0V Arsenal", "note": "Derby pentru titlu. Ambele echipe sunt motivate.", "trendCota": null},
+    "piete": { "rezultatFinal": {"nume": "Rezultat Final", "optiuni": [{"nume": "1", "cota": 1.85}, {"nume": "X", "cota": 3.80}, {"nume": "2", "cota": 4.20}]}, "ambeleMarcheaza": {"nume": "Ambele marchează", "optiuni": [{"nume": "Da", "cota": 1.65}, {"nume": "Nu", "cota": 2.15}]}, "totalGoluri": {"nume": "Total Goluri", "optiuni": [{"nume": "Peste 2.5", "cota": 1.75}, {"nume": "Sub 2.5", "cota": 2.05}]}}
+  },
+  {
+    "id": 3, "competitie": "Liga 1, România", "echipe": "CFR Cluj - Rapid București", "data": "2025-06-13T21:00:00",
+    "statistici": { "forma": [{"nume": "CFR Cluj", "valoare": ["V", "E", "V", "I", "E"]}, {"nume": "Rapid", "valoare": ["I", "I", "E", "V", "I"]}], "medieGoluriMarcate": 1.4, "medieGoluriPrimite": 0.9, "procentGG": 40, "procentPeste2_5": 35, "directe": "3V CFR, 2E, 0V Rapid", "note": "Rapid este într-o formă slabă, probleme de lot și antrenor nou.", "trendCota": {"echipa": "CFR Cluj", "scadere": 8}},
+    "piete": { "rezultatFinal": {"nume": "Rezultat Final", "optiuni": [{"nume": "1", "cota": 1.95}, {"nume": "X", "cota": 3.30}, {"nume": "2", "cota": 4.00}]}, "ambeleMarcheaza": {"nume": "Ambele marchează", "optiuni": [{"nume": "Da", "cota": 1.95}, {"nume": "Nu", "cota": 1.80}]}, "totalGoluri": {"nume": "Total Goluri", "optiuni": [{"nume": "Peste 2.5", "cota": 2.20}, {"nume": "Sub 2.5", "cota": 1.65}]}}
+  },
+  {
+    "id": 4, "competitie": "Serie A, Italia", "echipe": "Inter - AC Milan", "data": "2025-06-15T21:45:00",
+    "statistici": { "forma": [{"nume": "Inter", "valoare": ["V", "V", "V", "E", "V"]}, {"nume": "AC Milan", "valoare": ["V", "E", "V", "I", "V"]}], "medieGoluriMarcate": 2.2, "medieGoluriPrimite": 0.7, "procentGG": 70, "procentPeste2_5": 65, "directe": "5V Inter, 0E, 0V AC Milan în ultimele 5", "note": "Derby della Madonnina. Inter a dominat recent.", "trendCota": null},
+    "piete": { "rezultatFinal": {"nume": "Rezultat Final", "optiuni": [{"nume": "1", "cota": 2.00}, {"nume": "X", "cota": 3.50}, {"nume": "2", "cota": 3.75}]}, "ambeleMarcheaza": {"nume": "Ambele marchează", "optiuni": [{"nume": "Da", "cota": 1.60}, {"nume": "Nu", "cota": 2.25}]}, "totalGoluri": {"nume": "Total Goluri", "optiuni": [{"nume": "Peste 2.5", "cota": 1.80}, {"nume": "Sub 2.5", "cota": 2.00}]}}
+  },
+  {
+    "id": 5, "competitie": "La Liga, Spania", "echipe": "Real Madrid - Barcelona", "data": "2025-06-16T22:00:00",
+    "statistici": { "forma": [{"nume": "Real Madrid", "valoare": ["V", "V", "E", "V", "V"]}, {"nume": "Barcelona", "valoare": ["V", "V", "I", "V", "E"]}], "medieGoluriMarcate": 2.8, "medieGoluriPrimite": 1.0, "procentGG": 75, "procentPeste2_5": 80, "directe": "3V Real, 0E, 2V Barcelona", "note": "El Clasico. Derby. Tensiune maximă.", "trendCota": {"echipa": "Barcelona", "scadere": 5}},
+    "piete": { "rezultatFinal": {"nume": "Rezultat Final", "optiuni": [{"nume": "1", "cota": 2.20}, {"nume": "X", "cota": 3.60}, {"nume": "2", "cota": 3.10}]}, "ambeleMarcheaza": {"nume": "Ambele marchează", "optiuni": [{"nume": "Da", "cota": 1.50}, {"nume": "Nu", "cota": 2.50}]}, "totalGoluri": {"nume": "Total Goluri", "optiuni": [{"nume": "Peste 2.5", "cota": 1.60}, {"nume": "Sub 2.5", "cota": 2.30}]}}
+  },
+  {
+    "id": 6, "competitie": "Bundesliga, Germania", "echipe": "Bayern Munchen - Borussia Dortmund", "data": "2025-06-16T19:30:00",
+    "statistici": { "forma": [{"nume": "Bayern", "valoare": ["V", "I", "V", "V", "V"]}, {"nume": "Dortmund", "valoare": ["V", "E", "V", "I", "V"]}], "medieGoluriMarcate": 3.1, "medieGoluriPrimite": 1.5, "procentGG": 85, "procentPeste2_5": 90, "directe": "4V Bayern, 1E, 0V Dortmund", "note": "Der Klassiker. Meciuri mereu spectaculoase și cu multe goluri.", "trendCota": null},
+    "piete": { "rezultatFinal": {"nume": "Rezultat Final", "optiuni": [{"nume": "1", "cota": 1.60}, {"nume": "X", "cota": 4.50}, {"nume": "2", "cota": 4.75}]}, "ambeleMarcheaza": {"nume": "Ambele marchează", "optiuni": [{"nume": "Da", "cota": 1.45}, {"nume": "Nu", "cota": 2.65}]}, "totalGoluri": {"nume": "Total Goluri", "optiuni": [{"nume": "Peste 2.5", "cota": 1.40}, {"nume": "Sub 2.5", "cota": 2.85}]}}
+  },
+  {
+    "id": 7, "competitie": "Liga 1, România", "echipe": "Dinamo București - UTA Arad", "data": "2025-06-17T18:00:00",
+    "statistici": { "forma": [{"nume": "Dinamo", "valoare": ["I", "E", "I", "E", "I"]}, {"nume": "UTA Arad", "valoare": ["E", "V", "E", "I", "E"]}], "medieGoluriMarcate": 0.8, "medieGoluriPrimite": 1.4, "procentGG": 30, "procentPeste2_5": 25, "directe": "1V Dinamo, 3E, 1V UTA", "note": "Meci de retrogradare. Ambele echipe sub presiune. Puține goluri marcate recent.", "trendCota": null},
+    "piete": { "rezultatFinal": {"nume": "Rezultat Final", "optiuni": [{"nume": "1", "cota": 2.80}, {"nume": "X", "cota": 3.00}, {"nume": "2", "cota": 2.80}]}, "ambeleMarcheaza": {"nume": "Ambele marchează", "optiuni": [{"nume": "Da", "cota": 2.00}, {"nume": "Nu", "cota": 1.75}]}, "totalGoluri": {"nume": "Total Goluri", "optiuni": [{"nume": "Peste 2.5", "cota": 2.40}, {"nume": "Sub 2.5", "cota": 1.55}]}}
+  },
+  {
+    "id": 8, "competitie": "Ligue 1, Franța", "echipe": "PSG - Olympique Marseille", "data": "2025-06-18T22:00:00",
+    "statistici": { "forma": [{"nume": "PSG", "valoare": ["V", "V", "V", "E", "V"]}, {"nume": "Marseille", "valoare": ["E", "I", "V", "E", "V"]}], "medieGoluriMarcate": 2.7, "medieGoluriPrimite": 1.1, "procentGG": 60, "procentPeste2_5": 75, "directe": "4V PSG, 1E, 0V Marseille", "note": "Le Classique. Rivalitate mare. Atacant PSG suspendat.", "trendCota": null},
+    "piete": { "rezultatFinal": {"nume": "Rezultat Final", "optiuni": [{"nume": "1", "cota": 1.70}, {"nume": "X", "cota": 4.00}, {"nume": "2", "cota": 4.50}]}, "ambeleMarcheaza": {"nume": "Ambele marchează", "optiuni": [{"nume": "Da", "cota": 1.60}, {"nume": "Nu", "cota": 2.25}]}, "totalGoluri": {"nume": "Total Goluri", "optiuni": [{"nume": "Peste 2.5", "cota": 1.55}, {"nume": "Sub 2.5", "cota": 2.40}]}}
+  },
+  {
+    "id": 9, "competitie": "Champions League", "echipe": "Liverpool - Atletico Madrid", "data": "2025-06-19T22:00:00",
+    "statistici": { "forma": [{"nume": "Liverpool", "valoare": ["V", "V", "I", "V", "V"]}, {"nume": "Atletico", "valoare": ["E", "V", "E", "V", "E"]}], "medieGoluriMarcate": 2.1, "medieGoluriPrimite": 0.9, "procentGG": 45, "procentPeste2_5": 50, "directe": "2V Liverpool, 1E, 2V Atletico", "note": "Meci eliminatoriu. Atletico se apără foarte bine. Oboseală după meci de campionat greu.", "trendCota": {"echipa": "Atletico Madrid", "scadere": 7}},
+    "piete": { "rezultatFinal": {"nume": "Rezultat Final", "optiuni": [{"nume": "1", "cota": 2.05}, {"nume": "X", "cota": 3.40}, {"nume": "2", "cota": 3.70}]}, "ambeleMarcheaza": {"nume": "Ambele marchează", "optiuni": [{"nume": "Da", "cota": 1.85}, {"nume": "Nu", "cota": 1.90}]}, "totalGoluri": {"nume": "Total Goluri", "optiuni": [{"nume": "Peste 2.5", "cota": 2.10}, {"nume": "Sub 2.5", "cota": 1.70}]}}
+  },
+  {
+    "id": 10, "competitie": "Premier League, Anglia", "echipe": "Chelsea - Tottenham", "data": "2025-06-20T22:00:00",
+    "statistici": { "forma": [{"nume": "Chelsea", "valoare": ["V", "E", "I", "V", "E"]}, {"nume": "Tottenham", "valoare": ["I", "V", "V", "I", "V"]}], "medieGoluriMarcate": 1.9, "medieGoluriPrimite": 1.3, "procentGG": 70, "procentPeste2_5": 60, "directe": "3V Chelsea, 2E, 0V Tottenham", "note": "Derby londonez. Ambele echipe inconstante.", "trendCota": null},
+    "piete": { "rezultatFinal": {"nume": "Rezultat Final", "optiuni": [{"nume": "1", "cota": 2.40}, {"nume": "X", "cota": 3.50}, {"nume": "2", "cota": 2.85}]}, "ambeleMarcheaza": {"nume": "Ambele marchează", "optiuni": [{"nume": "Da", "cota": 1.57}, {"nume": "Nu", "cota": 2.35}]}, "totalGoluri": {"nume": "Total Goluri", "optiuni": [{"nume": "Peste 2.5", "cota": 1.70}, {"nume": "Sub 2.5", "cota": 2.10}]}}
+  }
+]
